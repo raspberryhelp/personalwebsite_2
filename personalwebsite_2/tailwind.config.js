@@ -5,6 +5,7 @@ export default {
     "./src/**/*.{js,ts,jsx,tsx}",
   ],
   theme: {
+    
     container: {
       padding: {
         DEFAULT: '1rem',
@@ -15,7 +16,9 @@ export default {
       },
     
     },
-    extend: {},
+    extend: { colors: {
+      'custom-blue': '#1c1917', 
+    },},
   },
   plugins: [],
 }

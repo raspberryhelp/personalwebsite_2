@@ -10,11 +10,14 @@ function App() {
 
   return (
     <>
-      <div className="container text-center mx-auto">
+    <div class="bg-custom-blue h-screen">
+    <div className="container text-center mx-auto text-stone-100">
         If you're seeing this it means my app worked :)
       </div>
       <br />
       <About/>
+    </div>
+     
      
     </>
   );
