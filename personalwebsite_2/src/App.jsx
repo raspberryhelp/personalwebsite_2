@@ -11,7 +11,7 @@ function App() {
   return (
     <>
     <div class="bg-custom-blue h-screen">
-    <div className="container text-center mx-auto text-stone-100">
+    <div className="container text-center mx-auto text-stone-100 p-10">
         If you're seeing this it means my app worked :)
       </div>
       <br />
