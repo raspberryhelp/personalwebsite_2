@@ -1,3 +1,7 @@
-Code for Website: 
+How to set it up after you downloaded it
 
-Not much here so far but basic setup has been done so far. 
+1. Have node.js set up
+2. do 'npm install'
+3. do 'npm run dev'
+
+If this doesn't work then lmk
