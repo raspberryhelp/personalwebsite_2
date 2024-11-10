@@ -10,6 +10,7 @@ function App() {
 
   return (
     <>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"></meta>
     <div class="bg-custom-blue h-screen">
     <div className="container text-center mx-auto text-stone-100 p-10">
         If you're seeing this it means my app worked :) A test to see if it works even though it's already deployed
