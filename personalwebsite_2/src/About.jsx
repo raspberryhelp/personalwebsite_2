@@ -8,7 +8,7 @@ function About() {
   const greetings = [
     "Hello there visitor! I've see you've come a long way. Here, have some tea, there's a lot to talk about...♫",
     "Oh welcome! I just finished cleaning the kitchen, but you can have a seat right there!", 
-    "Was bringing to think that you got lost but it seems you've found me. Welcome, and please make yourself at home",
+    "Was bringing to think that you got lost but it seems you've found me. Welcome, and please make yourself at home!",
     "Thank you for visiting my website, feel free to look around!"
   ];
   
