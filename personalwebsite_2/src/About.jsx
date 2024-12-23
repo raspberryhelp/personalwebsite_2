@@ -17,7 +17,6 @@ function About() {
     <div className = "container mx-auto bg-stone-700 rounded-lg flex p-5 w-1/2">
         <img class ="float-left mx-auto object-cover max-h-40 rounded-lg px-10" src={neuv}/>
         <div className="text-zinc-200">{randomgreet} </div>
-        <div className="text-zinc-200">testing </div>
         
     </div>
   )

@@ -16,7 +16,7 @@ function App() {
         name="viewport"
         content="width=device-width, initial-scale=1.0"
       ></meta>
-      <BrowserRouter basename="/">
+      <BrowserRouter>
       <div class="bg-custom-blue h-screen">
         <div className="container text-center mx-auto text-stone-100 p-10">
          
