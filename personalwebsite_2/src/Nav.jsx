@@ -6,9 +6,9 @@ function Nav() {
     <>
       <nav class="bg-stone-500 rounded-t-lg p-3 m-7">
         <ul>
-          <ul className="flex justify-center gap-20">
+          <ul className="flex justify-center gap-20 text-stone-50/[.6] hover:text-stone-50 ">
             <li>▼△▼△▼△▼△▼</li>
-          <Link to ="/about" className = "font-medium text-stone-800 hover:text-stone-50">
+          <Link to ="/about" className = "font-medium text-stone-800 hover:text-stone-50 ">
         About
         </Link>
         <Link to ="/projects" className = "font-medium text-stone-800 hover:text-stone-50">
