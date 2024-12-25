@@ -7,6 +7,6 @@ How to set it up after you downloaded it
 If this doesn't work then lmk
 
 ### Dev Tasks
-- Fix Nav Var
+~~- Fix Nav Var~~ Done!
 - Add Projects
 - Add Tools
