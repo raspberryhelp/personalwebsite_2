@@ -8,6 +8,7 @@ import Projects from "./Projects";
 import Tools from "./Tools";
 import Nav from "./Nav";
 import Footer from "./Footer";
+import Home from "./Home";
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 
 function App() {
@@ -25,7 +26,7 @@ function App() {
          
           <Nav />
           <Routes>
-            <Route path ="/" element={"If you're seeing this it means my app worked :) A test to see if it works even though it's already deployed"}/>
+            <Route path ="/" element={<Home/>}/>
             <Route path = "/about" element={<About/>}/>
             <Route path = "/projects" element={<Projects/>}/>
             <Route path = "/tools" element={<Tools/>}/>
