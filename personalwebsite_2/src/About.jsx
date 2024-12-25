@@ -15,7 +15,7 @@ function About() {
   const randomgreet = greetings[Math.floor(Math.random() * greetings.length)];
   return (
     <>
-    <div className = "container  bg-stone-700 rounded-lg flex p-5 max-w-4xl mx-auto">
+    <div className = "container  bg-stone-700 rounded-lg flex p-5 max-w-4xl mx-auto hover:scale-110 transition-transform hover:ring-1 text-zinc-200 ring-offset-2 ">
         <img class ="float-left mx-auto object-cover max-h-40 rounded-lg px-10" src={neuv}/>
         <div className="text-zinc-200">{randomgreet} </div>
         
