@@ -8,6 +8,7 @@ If this doesn't work then lmk
 
 ### Dev Tasks
 - [x] Fix Nav Bar
-- [ ] Decide the design of the information cards
+- [x] Decide the design of the information cards
 - [ ] Add Projects
 - [ ] Add Tools
+- [ ] Add in animation for the cards
