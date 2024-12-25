@@ -18,6 +18,7 @@ export default {
     },
     extend: { colors: {
       'custom-blue': '#1c1917', 
+    
     },},
   },
   plugins: [],
