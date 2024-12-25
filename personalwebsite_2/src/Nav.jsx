@@ -6,7 +6,7 @@ function Nav() {
     <>
       <nav class="bg-stone-500 rounded-t-lg px-10 py-4 m-7 max-w-4xl mx-auto">
         <ul>
-          <ul className="flex justify-center gap-20 text-stone-50/[.6] hover:text-stone-50 ">
+          <ul className="flex justify-center gap-20 text-stone-50/[.6] hover:text-stone-50 transition-color duration-200 ">
             <li>▼△▼△▼△▼△▼</li>
           <Link to ="/about" className = "font-medium text-stone-800 hover:text-stone-50 hover:scale-110 transition-transform ">
         About
