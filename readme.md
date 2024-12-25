@@ -7,6 +7,7 @@ How to set it up after you downloaded it
 If this doesn't work then lmk
 
 ### Dev Tasks
-- Fix Nav Var
-- Add Projects
-- Add Tools
+- [x] Fix Nav Bar
+- [ ] Decide the design of the information cards
+- [ ] Add Projects
+- [ ] Add Tools
