@@ -5,3 +5,8 @@ How to set it up after you downloaded it
 3. do 'npm run dev'
 
 If this doesn't work then lmk
+
+### Dev Tasks
+- Fix Nav Var
+- Add Projects
+- Add Tools
