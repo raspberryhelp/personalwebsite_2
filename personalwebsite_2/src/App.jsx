@@ -7,6 +7,7 @@ import About from "./About";
 import Projects from "./Projects";
 import Tools from "./Tools";
 import Nav from "./Nav";
+import Footer from "./Footer";
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 
 function App() {
@@ -29,11 +30,12 @@ function App() {
             <Route path = "/projects" element={<Projects/>}/>
             <Route path = "/tools" element={<Tools/>}/>
           </Routes>
+          <Footer/>
         </div>
        
       </div>
       </BrowserRouter>
- 
+     
     </>
   );
 }
