@@ -8,13 +8,13 @@ function Nav() {
         <ul>
           <ul className="flex justify-center gap-20 text-stone-50/[.6] hover:text-stone-50 ">
             <li>▼△▼△▼△▼△▼</li>
-          <Link to ="/about" className = "font-medium text-stone-800 hover:text-stone-50 ">
+          <Link to ="/about" className = "font-medium text-stone-800 hover:text-stone-50 hover:scale-110 transition-transform ">
         About
         </Link>
-        <Link to ="/projects" className = "font-medium text-stone-800 hover:text-stone-50">
+        <Link to ="/projects" className = "font-medium text-stone-800 hover:text-stone-50 hover:scale-110 transition-transform">
         Projects
         </Link>
-        <Link to ="/Tools" className = "font-medium text-stone-800 hover:text-stone-50">
+        <Link to ="/Tools" className = "font-medium text-stone-800 hover:text-stone-50 hover:scale-110 transition-transform">
         Tools I use
         </Link>
         <li>▼△▼△▼△▼△▼</li>
