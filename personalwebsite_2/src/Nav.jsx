@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 function Nav() {
   return (
     <>
-      <nav class="bg-stone-500 rounded-t-lg p-3 m-7">
+      <nav class="bg-stone-500 rounded-t-lg px-10 py-4 m-7 max-w-4xl mx-auto">
         <ul>
           <ul className="flex justify-center gap-20 text-stone-50/[.6] hover:text-stone-50 ">
             <li>▼△▼△▼△▼△▼</li>
