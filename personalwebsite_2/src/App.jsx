@@ -21,7 +21,7 @@ function App() {
         content="width=device-width, initial-scale=1.0"
       ></meta>
       <BrowserRouter>
-      <div class="bg-custom-blue h-screen">
+      <div class="bg-custom-blue min-h-screen bg-auto">
         <div className="container text-center mx-auto text-stone-100 p-10">
          
           <Nav />
