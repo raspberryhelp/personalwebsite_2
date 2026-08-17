@@ -10,7 +10,7 @@ import Nav from "./Nav";
 import Footer from "./Footer";
 import Home from "./Home";
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
-//import { Analytics } from "@vercel/analytics/next"
+import { Analytics } from "@vercel/analytics/next"
 
 function App() {
   const [count, setCount] = useState(0);
