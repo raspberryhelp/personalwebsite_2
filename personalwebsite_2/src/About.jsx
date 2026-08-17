@@ -10,7 +10,7 @@ function About() {
     "Hello there visitor! I've see you've come a long way. Here, have some tea, there's a lot to talk about...♫",
     "Oh welcome! I just finished cleaning the kitchen, but you can have a seat right there!", 
     "Was beginning to think that you got lost, but it seems you've found the way anyway. Welcome, and please make yourself at home!",
-    "Thank you for visiting my website, feel free to look around! This site might get a revamp later..."
+    "Thank you for visiting my website, feel free to look around!"
   ];
   
   const randomgreet = greetings[Math.floor(Math.random() * greetings.length)];
