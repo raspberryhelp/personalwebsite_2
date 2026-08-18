@@ -10,7 +10,7 @@ import Nav from "./Nav";
 import Footer from "./Footer";
 import Home from "./Home";
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
-import { Analytics } from "@vercel/analytics/react";
+import { Analytics } from "@vercel/analytics/react"
 
 function App() {
   const [count, setCount] = useState(0);
@@ -37,7 +37,7 @@ function App() {
        
       </div>
       </BrowserRouter>
-     
+      <Analytics />
     </>
   );
 }
